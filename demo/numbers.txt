@@ -1,0 +1,7 @@
+I have 5 apples
+There are 12 oranges
+Phone: 555-1234
+Year: 2024
+Price: $99.99
+Count: 0
+ID: 42

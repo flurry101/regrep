@@ -1,0 +1,14 @@
+abc123def
+test@example.com
+user_name_123
+color
+colour
+color is better
+the cat sat on the mat
+start of line
+middle of line end
+^special characters!
+[brackets] are fun
+(parentheses) too
+cat cat
+dog dog dog

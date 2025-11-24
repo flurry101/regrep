@@ -1,0 +1,6 @@
+TODO: fix bug in login
+TODO: optimize database queries
+DONE: implement feature X
+TODO: write tests
+BUG: memory leak detected
+TODO: update documentation
