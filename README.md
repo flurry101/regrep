@@ -83,7 +83,7 @@ match repeated words (like "the the"):
 
 find email-like patterns
 ```bash
-./your_program.sh -E "\w+@\w+" contacts.txt
+./grep.sh -E "\w+@\w+" contacts.txt
 ```
 
 ## when things go wrong (or ...right)
