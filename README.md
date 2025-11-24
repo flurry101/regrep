@@ -55,7 +55,7 @@ search multiple files (because one is never enough):
 
 pipe some text through it:
 ```bash
-cat pascal.txt | ./your_program.sh -E "triangle"
+cat pascal.txt | ./grep.sh -E "triangle"
 echo "does this work?" | ./grep.sh -E "work"
 ```
 
